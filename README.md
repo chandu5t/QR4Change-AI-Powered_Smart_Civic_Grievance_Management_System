@@ -19,15 +19,29 @@
 
 ---
 
+---
+
 ## 🌐 Live Demo
 
-🚀 **Try QR4Change Online:**  
-https://qr4change.vercel.app/
+<p align="center">
 
-> No installation required. Open the link and start exploring the application.
+<a href="https://qr4change.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Launch%20QR4Change-2962FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
+<br><br>
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://qr4change.vercel.app/)
+<b>Experience QR4Change directly in your browser.</b><br>
+No installation required • Fast • Responsive • Mobile Friendly
+
+</p>
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2962FF?style=for-the-badge&logo=vercel&logoColor=white)](https://qr4change.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
+[![Backend](https://img.shields.io/badge/Backend-Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![AI](https://img.shields.io/badge/AI-YOLOv11%20%7C%20ELECTRA-8E24AA?style=for-the-badge)](#)
+
+---
 
 ##  Key Features
 
