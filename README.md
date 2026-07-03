@@ -23,12 +23,6 @@
 </p>
 
 <p align="center">
-  <a href="https://qr4change.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20in-Browser-87CEEB?style=flat-square&logo=googlechrome&logoColor=black" alt="Open in Browser">
-  </a>
-</p>
-
-<p align="center">
 
 [![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Backend](https://img.shields.io/badge/Backend-Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
