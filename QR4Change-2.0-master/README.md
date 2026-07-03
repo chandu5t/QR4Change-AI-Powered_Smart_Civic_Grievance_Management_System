@@ -21,13 +21,13 @@
 
 ##  Key Features
 
-- ** QR Code Reporting:** Scan QR codes at civic hotspots to access pre-filled complaint forms with geotagged metadata (location, ward).
-- ** AI-Driven Verification:** Uses YOLOv11n (potholes) and InceptionV3 (garbage) to validate complaints, filtering out spam.
-- ** Urgency Scoring:** NLP-powered ELECTRA model classifies complaints as High or Low urgency for effective prioritization.
-- ** Responsive Interface:** Built with ReactJS and TypeScript for seamless access on mobile and desktop.
-- ** Public Dashboard:** Real-time heatmaps, filters, and status updates for transparency and accountability.
-- ** Feedback Loop:** Citizens receive resolution notifications and can provide feedback to ensure satisfaction.
-- ** Scalable & Secure:** Powered by Express.js, Django, and MongoDB for robust, secure, and scalable operations.
+- **QR Code Reporting:** Scan QR codes at civic hotspots to access pre-filled complaint forms with geotagged metadata (location, ward).
+- **AI-Driven Verification:** Uses YOLOv11n (potholes) and InceptionV3 (garbage) to validate complaints, filtering out spam.
+- **Urgency Scoring:** NLP-powered ELECTRA model classifies complaints as High or Low urgency for effective prioritization.
+- **Responsive Interface:** Built with ReactJS and TypeScript for seamless access on mobile and desktop.
+- **Public Dashboard:** Real-time heatmaps, filters, and status updates for transparency and accountability.
+- **Feedback Loop:** Citizens receive resolution notifications and can provide feedback to ensure satisfaction.
+- **Scalable & Secure:** Powered by Express.js, Django, and MongoDB for robust, secure, and scalable operations.
 
 ---
 
