@@ -5,22 +5,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/yourusername/qr4change.svg?style=social&label=Star)](https://github.com/yash-maske/QR4Change-2.0)
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/qr4change.svg)](https://github.com/yash-maske/QR4Change-2.0)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/qr4change.svg?style=social&label=Fork)](https://github.com/yash-maske/QR4Change-2.0)
+[![GitHub Forks](https://img.shields.io/github/forks/yourusername/qr4change.svg?style=social&label=Fork)](https://github.com/yash-maske/QR4Change-2.0) 
 
----
-
-##  Overview
-
-**QR4Change** is a revolutionary **Smart QR-Based Civic Grievance Reporting System** designed to bridge the gap between citizens and municipal authorities in India. By leveraging **QR codes**, **AI-powered verification**, and a **user-friendly interface**, QR4Change simplifies the process of reporting urban issues like potholes, garbage dumps, and broken infrastructure. Citizens can scan QR codes at hotspot locations to file complaints effortlessly, while authorities receive verified, prioritized issues for swift resolution. With real-time tracking and transparent dashboards, QR4Change fosters trust and accountability, paving the way for smarter cities.
-
- **Why QR4Change?** It eliminates bureaucratic hurdles, ensures authentic complaints using deep learning, and prioritizes urgent issues with NLP, making civic engagement accessible and efficient.
-
- **Learn More:** Check out our [research paper](./QR4Change-2.0-master/QR4Change.docx) for a deep dive into the system.
-
----
-
----
-
+<br>
 ## 🌐 Live Demo
 
 <p align="center">
@@ -40,6 +27,16 @@ No installation required • Fast • Responsive • Mobile Friendly
 [![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Backend](https://img.shields.io/badge/Backend-Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![AI](https://img.shields.io/badge/AI-YOLOv11%20%7C%20ELECTRA-8E24AA?style=for-the-badge)](#)
+
+---
+
+##  Overview
+
+**QR4Change** is a revolutionary **Smart QR-Based Civic Grievance Reporting System** designed to bridge the gap between citizens and municipal authorities in India. By leveraging **QR codes**, **AI-powered verification**, and a **user-friendly interface**, QR4Change simplifies the process of reporting urban issues like potholes, garbage dumps, and broken infrastructure. Citizens can scan QR codes at hotspot locations to file complaints effortlessly, while authorities receive verified, prioritized issues for swift resolution. With real-time tracking and transparent dashboards, QR4Change fosters trust and accountability, paving the way for smarter cities.
+
+ **Why QR4Change?** It eliminates bureaucratic hurdles, ensures authentic complaints using deep learning, and prioritizes urgent issues with NLP, making civic engagement accessible and efficient.
+
+ **Learn More:** Check out our [research paper](./QR4Change-2.0-master/QR4Change.docx) for a deep dive into the system.
 
 ---
 
