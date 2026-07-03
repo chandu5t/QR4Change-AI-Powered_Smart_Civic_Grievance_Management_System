@@ -19,6 +19,16 @@
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Try QR4Change Online:**  
+https://qr4change.vercel.app/
+
+> No installation required. Open the link and start exploring the application.
+
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://qr4change.vercel.app/)
+
 ##  Key Features
 
 - **QR Code Reporting:** Scan QR codes at civic hotspots to access pre-filled complaint forms with geotagged metadata (location, ward).
