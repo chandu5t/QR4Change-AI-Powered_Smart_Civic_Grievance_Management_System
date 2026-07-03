@@ -4,7 +4,7 @@ This document explains how to set up and run both the **backend server** and the
 
 ---
 
-## 🚀 Starting the Backend Server
+##  Starting the Backend Server
 
 1. Navigate to the **server** folder:
    ```bash
@@ -25,7 +25,7 @@ The backend will now be running and connected to the database.
 
 ---
 
-## 🤖 Starting the Deep Learning Model Server
+##  Starting the Deep Learning Model Server
 
 1. Navigate to the **model_server** folder:
    ```bash
@@ -44,7 +44,7 @@ The backend will now be running and connected to the database.
    ```
 
 4. **Download the model file** from the following link and place it inside the `electra` folder:
-   👉 [Download Model File](https://drive.google.com/drive/folders/1A3nacoDxCunO8kZ7XxReT_N6E5AhWQKo)
+   -> [Download Model File](https://drive.google.com/drive/folders/1A3nacoDxCunO8kZ7XxReT_N6E5AhWQKo)
 
 5. Start the model server:
    ```bash
@@ -53,7 +53,7 @@ The backend will now be running and connected to the database.
 
 ---
 
-## ✅ Summary
+##  Summary
 
 - **Backend** runs with Node.js (`server` folder).  
 - **Model server** runs with Python/Django (`model_server` folder).  
