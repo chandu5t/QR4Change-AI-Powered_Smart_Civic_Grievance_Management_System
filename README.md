@@ -38,13 +38,13 @@ Watch the complete walkthrough of <strong>QR4Change</strong> to explore the AI-p
   </a>
 </p>
 <br></br>
-<p align="center">
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-2962FF?style=for-the-badge&logo=vercel&logoColor=white)](https://qr4change.vercel.app/)
 [![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Backend](https://img.shields.io/badge/Backend-Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![AI](https://img.shields.io/badge/AI-YOLOv11%20%7C%20ELECTRA-8E24AA?style=for-the-badge)](#)
 
-</p>
+
 
 
 ---
