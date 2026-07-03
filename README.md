@@ -1,6 +1,6 @@
 #  QR4Change: Empowering Communities with Smart Civic Solutions
 
-![QR4Change Banner](./image.jpg) <!-- Replace with actual banner image -->
+![QR4Change Banner](./QR4Change-2.0-master/image.jpg) <!-- Replace with actual banner image -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/yourusername/qr4change.svg?style=social&label=Star)](https://github.com/yash-maske/QR4Change-2.0)
@@ -15,7 +15,7 @@
 
  **Why QR4Change?** It eliminates bureaucratic hurdles, ensures authentic complaints using deep learning, and prioritizes urgent issues with NLP, making civic engagement accessible and efficient.
 
- **Learn More:** Check out our [research paper](QR4Change.docx) for a deep dive into the system.
+ **Learn More:** Check out our [research paper](./QR4Change-2.0-master/QR4Change.docx) for a deep dive into the system.
 
 ---
 
@@ -35,7 +35,7 @@
 
 QR4Change integrates six modules for a seamless grievance redressal process, combining cutting-edge AI with user-friendly design.
 
-![System Architecture](./image2.jpg) <!-- Replace with actual image path -->
+![System Architecture](./QR4Change-2.0-master/image2.jpg) <!-- Replace with actual image path -->
 
 ### Core Modules
 1. **QR Code Generation:** Unique QR codes with embedded metadata for quick complaint initiation.
@@ -242,7 +242,7 @@ qr4change/
 
 - **Urgency Model:** 99.73% Accuracy, 99.72% F1-Score, 100% Recall.
 - **Efficiency:** Inference time <100ms, mobile-friendly.
-- **Confusion Matrices:** See [research paper](QR4Change.docx) for visuals.
+- **Confusion Matrices:** See [research paper](./QR4Change-2.0-master/QR4Change.docx) for visuals.
 
 ---
 
@@ -265,7 +265,7 @@ Licensed under the [MIT License](LICENSE). Feel free to use, modify, and distrib
 
 ##  References
 
-Full references are in the [research paper](QR4Change.docx). Key inspirations include:
+Full references are in the [research paper](./QR4Change-2.0-master/QR4Change.docx). Key inspirations include:
 - Smart city grievance systems (IJRPR, JETIR)
 - AI in complaint management (LeewayHertz, Civica)
 - QR-based feedback systems (Daily Excelsior, CNBC TV18)
