@@ -4,26 +4,21 @@
 
 
 
-
 ## 🎥 Project Walkthrough
 
 <p align="center">
-Watch a complete walkthrough of <strong>QR4Change</strong> to see how citizens can report civic issues, how AI verifies complaints, and how authorities manage them.
+Watch the complete walkthrough of <strong>QR4Change</strong> to explore the AI-powered civic grievance reporting workflow.
 </p>
 
 <p align="center">
-
-<a href="./QR4Change-2.0-master/QR4Change-Video.mp4">
-  <img src="https://img.shields.io/badge/▶️%20Watch-Demo%20Video-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video">
-</a>
-
+  <a href="https://youtu.be/l2flXN1malc" target="_blank">
+    <img src="./QR4Change-2.0-master/images/thumbnail.png" alt="QR4Change Demo Video" width="900">
+  </a>
 </p>
 
 <p align="center">
-📹 Click the button above to open the project demonstration video.
+<b>▶️ Click the thumbnail above to watch the full demo on YouTube.</b>
 </p>
-
-
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
