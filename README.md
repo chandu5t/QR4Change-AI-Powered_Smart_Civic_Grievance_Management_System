@@ -1,8 +1,5 @@
 #  QR4Change: Empowering Communities with Smart Civic Solutions
 
-![QR4Change Banner](./QR4Change-2.0-master/image.jpg) <!-- Replace with actual banner image -->
-
-
 
 ## 🎥 Project Walkthrough
 
@@ -12,7 +9,7 @@ Watch the complete walkthrough of <strong>QR4Change</strong> to explore the AI-p
 
 <p align="center">
   <a href="https://youtu.be/l2flXN1malc" target="_blank">
-    <img src="./QR4Change-2.0-master/images/thumbnail.png" alt="QR4Change Demo Video" width="900">
+    <img src="./QR4Change-2.0-master/thumbnail.png" alt="QR4Change Demo Video" width="900">
   </a>
 </p>
 
@@ -34,15 +31,15 @@ Watch the complete walkthrough of <strong>QR4Change</strong> to explore the AI-p
   Experience <strong>QR4Change</strong> directly in your browser.<br>
   No installation required • Fast • Responsive • Mobile Friendly
 </p>
-
+<br></br>
 <p align="center">
   <a href="https://qr4change.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Launch-Live%20Demo-FFB74D?style=for-the-badge&logo=vercel&logoColor=black&labelColor=87CEEB" alt="Launch Live Demo">
   </a>
 </p>
-
+<br></br>
 <p align="center">
-
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2962FF?style=for-the-badge&logo=vercel&logoColor=white)](https://qr4change.vercel.app/)
 [![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Backend](https://img.shields.io/badge/Backend-Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![AI](https://img.shields.io/badge/AI-YOLOv11%20%7C%20ELECTRA-8E24AA?style=for-the-badge)](#)
